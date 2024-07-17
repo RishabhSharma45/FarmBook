@@ -1,0 +1,6 @@
+com\example\entity\contact.class
+com\example\entity\user.class
+com\example\BasicApplication.class
+com\example\dao\userRepository.class
+com\example\controller\controller.class
+com\example\helper\message.class
